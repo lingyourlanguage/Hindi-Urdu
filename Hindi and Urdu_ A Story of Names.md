@@ -8,7 +8,7 @@ It was 1847, and the students of Dr. John R. Ballantyne, the Scottish superinten
 
 To which one student replied:
 
->"We do not clearly understand what you Europeans mean by the term Hindi, for there are hundreds of dialects, all in our opinion equally entitled to the name, and there is here no standard as there is in Sanskrit.[^1]"
+>"We do not clearly understand what you Europeans mean by the term Hindi, for there are hundreds of dialects, all in our opinion equally entitled to the name, and there is here no standard as there is in Sanskrit."[^1]
 
 It wouldn’t be long, though, before the conception of Hindi had become a lot clearer. Today, there can be no doubt about the status of Hindi [in India]( https://timesofindia.indiatimes.com/city/delhi/Govt-to-promote-use-of-Hindi-in-routine-conversation-NE/articleshow/52659063.cms) and even in [the world](https://www.thehindu.com/news/national/prime-minister-narendra-modi-to-address-un-general-assembly-in-hindi-rajnath-singh/article6409820.ece). [All sorts of stories](https://www.thehindu.com/opinion/lead/stories-they-tell-about-languages/article4747023.ece) have become a part of the mystique of Hindi. Languages older than Hindi are now considered by many to be dialects of it, poets once rejected are now praised.
 
