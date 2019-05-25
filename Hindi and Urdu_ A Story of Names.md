@@ -1,6 +1,10 @@
 # Hindi and Urdu: A Story of Names
 **Untangling the complicated history of two of India’s biggest languages.**
+By Raphael Fabisiewicz
 
+---
+*This is the second article in a series on the gray area between languages and dialect. Stay tuned for the next part in the series, where we take at Danish, Swedish, and Norwegian, which are generally considered to be separate languages, but which are to a large degree mutually intelligible.*
+---
 
 It was 1847, and the students of Dr. John R. Ballantyne, the Scottish superintendent of Government Sanskrit College in Benares, had been struggling to improve the style of their Hindi. One day, Dr. Ballantyne finally snapped, and asked them to write an essay on the following topic: 
 
