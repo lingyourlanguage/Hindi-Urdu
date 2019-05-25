@@ -4,11 +4,11 @@
 
 It was 1847, and the students of Dr. John R. Ballantyne, the Scottish superintendent of Government Sanskrit College in Benares, had been struggling to improve the style of their Hindi. One day, Dr. Ballantyne finally snapped, and asked them to write an essay on the following topic: 
 
->“Why do you despise the culture of the language you speak every day of your lives, of the only language which your mothers and sisters understand?”
+> “Why do you despise the culture of the language you speak every day of your lives, of the only language which your mothers and sisters understand?”
 
 To which one student replied:
 
->We do not clearly understand what you Europeans mean by the term Hindi, for there are hundreds of dialects, all in our opinion equally entitled to the name, and there is here no standard as there is in Sanskrit.[^1]
+>"We do not clearly understand what you Europeans mean by the term Hindi, for there are hundreds of dialects, all in our opinion equally entitled to the name, and there is here no standard as there is in Sanskrit.[^1]"
 
 It wouldn’t be long, though, before the conception of Hindi had become a lot clearer. Today, there can be no doubt about the status of Hindi [in India]( https://timesofindia.indiatimes.com/city/delhi/Govt-to-promote-use-of-Hindi-in-routine-conversation-NE/articleshow/52659063.cms) and even in [the world](https://www.thehindu.com/news/national/prime-minister-narendra-modi-to-address-un-general-assembly-in-hindi-rajnath-singh/article6409820.ece). [All sorts of stories](https://www.thehindu.com/opinion/lead/stories-they-tell-about-languages/article4747023.ece) have become a part of the mystique of Hindi. Languages older than Hindi are now considered by many to be dialects of it, poets once rejected are now praised.
 
@@ -385,7 +385,7 @@ Given how *not* revolutionary this was, the extreme reaction to the ideas in his
 
 Years after he had published the book, Khattri showed up at a meeting of the NPS in Benares. His response was less than friendly, to put it mildly:
 
->Khattri was treated with conspicuous hostility. While “B.A. Pass Babu Shyam Sundar Das”, the Nagari Pracharini Sabha busybody, cajoled Guleri [another writer] to join the group that was being photographed to mark the inauguration, he pointedly ignored Khattri. Eventually, someone noticed the aged crank [Khattri] who was the father of it all [i.e. Khari Boli Hindi].[^97]
+"Khattri was treated with conspicuous hostility. While “B.A. Pass Babu Shyam Sundar Das”, the Nagari Pracharini Sabha busybody, cajoled Guleri [another writer] to join the group that was being photographed to mark the inauguration, he pointedly ignored Khattri. Eventually, someone noticed the aged crank [Khattri] who was the father of it all [i.e. Khari Boli Hindi]."[^97]
 
 The fatal flaw in Khattri’s arguments for Hindustani over Braj as the basis for Hindi poetry was that he argued that they were different languages. This idea subverted what Hindi ideologues had been working so hard on for so long. Hindustani, with its obvious connections to *Urdu*, just wouldn’t cut it as *Hindi’s* literary variety – at least when Khattri presented it. Khattri’s opponents defended Braj as strongly as they did *specifically because of its perceived distance from Urdu.*^[98]
 
@@ -429,7 +429,7 @@ There was one hitch that came up: MacDonnell’s original order *only* had to do
 
 Predictably, this decision was praised by supporters of Hindi and vehemently criticized as too sympathetic to the Hindi cause by supporters of Urdu. The Punjab Observer, an Urdu periodical, wrote on 4 July 1900: 
 
->We cannot but characterize [MacDonnell’s order] as anything short of a grave political blunder, and history written a hundred years later will have to mourn the mistake made in 1900.[^108]
+>"We cannot but characterize [MacDonnell’s order] as anything short of a grave political blunder, and history written a hundred years later will have to mourn the mistake made in 1900."[^108]
 
 Urdu opposition to the decree did not last long, however. The Muslim elite quickly backed off the issue when MacDonnell began to apply some pressure.  After all, they were ever more worried about maintaining their dwindling political power, which was entirely dependent upon maintaining cordial relations with the British.[^109]
 
@@ -475,7 +475,7 @@ Ghandi refused to believe that Hindi and Urdu were separate languages. To him, H
 
 In other words, Hindustani (Hindi, in Ghandi’s words) was a revolution against the elite who had been drawing Hindi and Urdu apart for all these years:
 
->[Hindustani] was also a political gesture for unity between Hindus and Muslims of North India and at the same time an open invitation to Indians from other speech communities to accept a broadbased Hindi as the common national language.[^117]
+>"[Hindustani] was also a political gesture for unity between Hindus and Muslims of North India and at the same time an open invitation to Indians from other speech communities to accept a broadbased Hindi as the common national language."[^117]
 
 Ghandi saw no future for the elite versions of Hindi and Urdu, and he believed that not only did they cause unnecessary antagonism between Hindus and Muslims, but also that these extremist varieties would die off before too long.
 
@@ -507,11 +507,11 @@ From 1 August – 14 September, 1949, the Constituent Assembly finally debated t
 
 On one side were delegates from Hindi-speaking states, led by UP freedom fighter Purushottam Das Tandon and Malaviya, former president of the HSS, both of whom were closely related to the Hindi literary elite. They claimed to speak on behalf of the people – as Hindi advocates had for a long time now. They spoke with a sense of moral superiority, asserting that they were upholding democracy. One INC member even taunted the opposition by asking:
 
->Are they afraid of democracy? Are they afraid of Parliament? Are they afraid of their own sons and grandsons who will be the members of our future Parliaments?
+>"Are they afraid of democracy? Are they afraid of Parliament? Are they afraid of their own sons and grandsons who will be the members of our future Parliaments?"
 
 On the other side were those who were frightened by the nascent Hindi imperialism, which seemed poised to make its best attempt at replacing every language in India by whatever means necessary. And this fear was not without reason – INC leader Ravishankar Shukla had even given a not-so-subtle warning to the south, where resistance to Hindi was especially strong:
 
->I can say to my friends in the South that so far as they are concerned, it would be in their best interests to learn Hindi as early as possibly, because if they do not learn Hindi quickly enough, they will be left behind.[^126]
+>"I can say to my friends in the South that so far as they are concerned, it would be in their best interests to learn Hindi as early as possibly, because if they do not learn Hindi quickly enough, they will be left behind."[^126]
 
 As arrogant as the Hindi-supporting side may have been, the political reality was that they could not ignore the coalition formed by all non-Hindi speaking delegates if they wanted to achieve their goals. That being said, a 78 – 77 vote in favor of Hindi against the Hindustani in 1949 demonstrated that the Hindi bloc was a force to be reckoned with.[^127]
 
@@ -537,9 +537,7 @@ Perhaps it was a good idea in theory, but it was a complete failure in practice.
 
 There was another issue concerning Hindi: the definition of Hindi given in [Article 351](https://en.wikisource.org/wiki/Constitution_of_India/Part_XVII#Article_351_{Directive_for_development_of_the_Hindi_language_}) of the constitution tries to accomplish so much that the result is a piece of legislation open to a wide variety of interpretations.[^131] Supporters of Hindustani took it as recognizing Hindustani, while Hindi groups took it as endorsing Sanskritized Hindi.
 
-To the elites engaged in this Sanskritization of Hindi, the politics of the situation were clear. They were creating a national identity around Hindi, and, according to KC Chattopadhyaya, President of the HSS, Sanskrit words
-
->are used in the same form everywhere. Therefore only that language can be acceptable all over India which is rich in pure Sanskrit words.
+To the elites engaged in this Sanskritization of Hindi, the politics of the situation were clear. They were creating a national identity around Hindi, and, according to KC Chattopadhyaya, President of the HSS, Sanskrit words "are used in the same form everywhere. Therefore only that language can be acceptable all over India which is rich in pure Sanskrit words."
 
 In other words, to them, the only acceptable form of Hindi for the whole nation would be a Hindi that was not the language of one specific people – and so marked by regional variation – but one of the *whole* people, with specific usages of different people erased.[^132]
 
