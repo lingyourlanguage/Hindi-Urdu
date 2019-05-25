@@ -1,5 +1,5 @@
 # Hindi and Urdu: A Story of Names
-**Untangling the complicated history of two of India’s biggest languages.**
+## **Untangling the complicated history of two of India’s biggest languages.**
 By Raphael Fabisiewicz
 
 
