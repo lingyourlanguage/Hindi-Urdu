@@ -13,7 +13,7 @@ It was 1847, and the students of Dr. John R. Ballantyne, the Scottish superinten
 
 To which one student replied:
 
->We do not clearly understand what you Europeans mean by the term Hindi, for there are hundreds of dialects, all in our opinion equally entitled to the name, and there is here no standard as there is in Sanskrit.[^1]1
+>We do not clearly understand what you Europeans mean by the term Hindi, for there are hundreds of dialects, all in our opinion equally entitled to the name, and there is here no standard as there is in Sanskrit.[^1]
 
 It wouldn’t be long, though, before the conception of Hindi had become a lot clearer. Today, there can be no doubt about the status of Hindi [in India]( https://timesofindia.indiatimes.com/city/delhi/Govt-to-promote-use-of-Hindi-in-routine-conversation-NE/articleshow/52659063.cms) and even in [the world](https://www.thehindu.com/news/national/prime-minister-narendra-modi-to-address-un-general-assembly-in-hindi-rajnath-singh/article6409820.ece). [All sorts of stories](https://www.thehindu.com/opinion/lead/stories-they-tell-about-languages/article4747023.ece) have become a part of the mystique of Hindi. Languages older than Hindi are now considered by many to be dialects of it, poets once rejected are now praised.
 
@@ -23,28 +23,28 @@ The popular understanding of the situation now is that Hindi and Urdu are two di
 
 Our journey will take us from the early days of the ancestors of Hindi and Urdu through the reign of the Mughal Empire and past the 1947 Partition of India to Hindi and Urdu today. We’ll see just what the role of Ballantyne and Government Sanskrit College in Benares was, how dialects and languages rose and fell, and how closely-related language and identity truly are. 
 
-## The Early Days: Old and Middle Indo-Aryan[^2]2
+## The Early Days: Old and Middle Indo-Aryan[^2]
 ### The Rise of Sanskrit
 
-Around 4,000 years ago, a group of Indo-Europeans nomads made their way into India. They called themselves *Ārya*, which likely meant “noble, honorable”, and their new land *Āryāvarta* “land of the noble”. They had made their way to the Indian subcontinent from the northwest and spoke an early language from the Indo-Aryan (IA) branch of the Indo-European language family.[^3]3
+Around 4,000 years ago, a group of Indo-Europeans nomads made their way into India. They called themselves *Ārya*, which likely meant “noble, honorable”, and their new land *Āryāvarta* “land of the noble”. They had made their way to the Indian subcontinent from the northwest and spoke an early language from the Indo-Aryan (IA) branch of the Indo-European language family.[^3]
 
-Our earliest evidence of IA languages – and possibly of any Indo-European language, for that matter – is the *Rigveda*. This was one of four Vedas, the oldest and most sacred Hindu texts, which had been painstakingly preserved over the centuries from generation to generation – amazingly, they were passed down orally, and not through manuscripts. In fact, the texts that we have are fairly accurate, given that the Vedas originated somewhere around 1500 – 1200 BCE, centuries before Homer’s *Iliad* and *Odyssey*.[^4]4
+Our earliest evidence of IA languages – and possibly of any Indo-European language, for that matter – is the *Rigveda*. This was one of four Vedas, the oldest and most sacred Hindu texts, which had been painstakingly preserved over the centuries from generation to generation – amazingly, they were passed down orally, and not through manuscripts. In fact, the texts that we have are fairly accurate, given that the Vedas originated somewhere around 1500 – 1200 BCE, centuries before Homer’s *Iliad* and *Odyssey*.[^4]
 
 The language of all of the Vedas was **Sanskrit**, and as the language of the Hindu sacred texts, it had an unparalleled prestige among languages of the area – the very name “Sanskrit” comes from Sanskrit:  *sáṃskṛta* means “well-prepared, pure and perfect”.  It had the ultimate level of prestige, really – the Vedas were considered to have divine origin, and the language used to express them was perfect and sacred.
 
-As an Indo-European language, Sanskrit shared many features with languages as distant as Latin or Ancient Greek,[^5]5 as well as even modern languages like English or French, but it was more closely related to the Indo-Iranian Persian language and even more closely related to the modern languages of India today, such as Hindi, Urdu, Punjabi, Bengali, and others.
+As an Indo-European language, Sanskrit shared many features with languages as distant as Latin or Ancient Greek,[^5] as well as even modern languages like English or French, but it was more closely related to the Indo-Iranian Persian language and even more closely related to the modern languages of India today, such as Hindi, Urdu, Punjabi, Bengali, and others.
 
 ### Out with the old, in with the middle
 
-This sacred Sanskrit language eventually began to change, though, as any spoken language is bound to. This change was perceived as a threat to the Vedas, and it was the role of the some of the world’s first linguists to stop the change. Grammarians such as Panini, who wrote down almost 4,000 grammar rules of Sanskrit around 400 BCE,[^6]6 helped crystallize what is now known as [“Classical Sanskrit”](https://lrc.la.utexas.edu/eieol/vedol).[^7]7 Classical Sanskrit would go on to play an unimaginably influential role in the development of the IA languages.
+This sacred Sanskrit language eventually began to change, though, as any spoken language is bound to. This change was perceived as a threat to the Vedas, and it was the role of the some of the world’s first linguists to stop the change. Grammarians such as Panini, who wrote down almost 4,000 grammar rules of Sanskrit around 400 BCE,[^6] helped crystallize what is now known as [“Classical Sanskrit”](https://lrc.la.utexas.edu/eieol/vedol).[^7] Classical Sanskrit would go on to play an unimaginably influential role in the development of the IA languages.
 
 At any rate, despite the grammarians’ best efforts at freezing Sanskrit, they only partially succeeded. They had frozen *written* Sanskrit, but the spoken language continued to change.
 
 With the rise of two new religions, Buddhism and Jainism, around the 5th century BCE, new language varieties came into play. The followers of these new religions questioned the authority of the Vedas, and what better way to do that than to reject the prestige of Sanskrit? 
 
-The early texts of Buddhism and Jainism, unsurprisingly, are thus written in other, non-Sanskrit varieties of what are called the Middle IA languages, to distinguish them from the Old IA languages such as Sanskrit.8 These languages came from the east, and as they spread west they formed a sort of *lingua franca* known as Pali.[^8]9
+The early texts of Buddhism and Jainism, unsurprisingly, are thus written in other, non-Sanskrit varieties of what are called the Middle IA languages, to distinguish them from the Old IA languages such as Sanskrit. These languages came from the east, and as they spread west they formed a sort of *lingua franca* known as Pali.[^8]
 
-Pali’s prestige was certainly helped by the fact that it was used in the texts of Theravada Buddhism, the most ancient school of Buddhism that still exists today. On top of this, the Mauryan Emperor Ashoka helped spread Pali far and wide as a *koine*, or common language between dialects, around 250 BCE by putting up inscriptions on pillars across India.[^10]10
+Pali’s prestige was certainly helped by the fact that it was used in the texts of Theravada Buddhism, the most ancient school of Buddhism that still exists today. On top of this, the Mauryan Emperor Ashoka helped spread Pali far and wide as a *koine*, or common language between dialects, around 250 BCE by putting up inscriptions on pillars across India.[^10]
 
 But again, as time passed, one language made way for another, and Pali was eventually replaced by what is known as Prakrit. We know about this language mostly through dramas, as well as the religious writings of the Jains.
 
@@ -57,7 +57,7 @@ One variety of Apabhramsha in particular, though, known as **Saurseni Apabhramsh
 
 Just after 1100, Mahmud of Ghazni, Sultan of the Ghaznavid Empire and first sovereign ruler to be known as sultan, conquered the Punjab region in the northwest part of India. The Ghaznavid Empire was a Muslim dynasty with Turkic origins, and they had a highly “Persianized” society. Though Turkish literary culture did persist for a while, the Ghaznavid court operated in Persian, and [Persian was the language of all things cultural]( http://www.iranicaonline.org/articles/ghaznavids). 
 
-With the conquest of Delhi in 1192, the Delhi Sultanate came into being, and after that, Muslim rule expanded east at an astonishing rate. By the 14th century, the Delhi Sultanate controlled most of India, apart from some isolated areas such as Rajasthan and the extreme south.[^11]11
+With the conquest of Delhi in 1192, the Delhi Sultanate came into being, and after that, Muslim rule expanded east at an astonishing rate. By the 14th century, the Delhi Sultanate controlled most of India, apart from some isolated areas such as Rajasthan and the extreme south.[^11]
 
 **This was the start of a long period of Muslim political dominance, which would have significant impacts on the development of India. And those influences would be felt perhaps nowhere more than in the use of languages.**
 
@@ -67,25 +67,25 @@ Let’s take a closer look at the Persian that the elite of the Delhi Sultanate 
 
 The Persian that was brought into (especially North) India was special. Originally, with the rapid expansion of Islam in the 7th century CE, communities that adopted the religion also adopted the Arabic language due to the religious significance of the Quran being written in it. 
 
-In eastern Iran and Central Asia, though, Arabic just didn’t quite stick the way it had in the Middle East and North Africa. Instead, Persians began using the Arabic script (with some modifications) and adopted an absolutely vast quantity of Arabic loan words, foreign sounds and all (bearing in mind that Arabic is entirely unrelated to Persian and Indo-European languages in general).[^12]12
+In eastern Iran and Central Asia, though, Arabic just didn’t quite stick the way it had in the Middle East and North Africa. Instead, Persians began using the Arabic script (with some modifications) and adopted an absolutely vast quantity of Arabic loan words, foreign sounds and all (bearing in mind that Arabic is entirely unrelated to Persian and Indo-European languages in general).[^12]
 
-The political domination of the Delhi Sultanate in North India spread both Islam and this Arabicized Persian across India. It was patronized lavishly by the political elite, and all high-prestige literature, education, and administration was conducted in it.[^13]13 
+The political domination of the Delhi Sultanate in North India spread both Islam and this Arabicized Persian across India. It was patronized lavishly by the political elite, and all high-prestige literature, education, and administration was conducted in it.[^13] 
 
 But the spoken language was a different story. 
 
-The spoken language of Delhi was not so much one dialect as it was a mixture of many. Several Indian languages including (but not limited to) Braj, Haryanvi, Punjabi, and Rajasthani all played a role in the creation of Khari Boli, the speech of Delhi.[^14]14 And it wasn’t just Indian languages in the mix. Language contact between Persian and Arabic speakers and Khari Boli speakers also resulted in many new sounds and a healthy dose of Persian and Arabic loan words.[^15]15
+The spoken language of Delhi was not so much one dialect as it was a mixture of many. Several Indian languages including (but not limited to) Braj, Haryanvi, Punjabi, and Rajasthani all played a role in the creation of Khari Boli, the speech of Delhi.[^14] And it wasn’t just Indian languages in the mix. Language contact between Persian and Arabic speakers and Khari Boli speakers also resulted in many new sounds and a healthy dose of Persian and Arabic loan words.[^15]
 
-Now, although the Indian languages are related to Persian (both are Indo-Iranian languages), they are not mutually intelligible.  For all its prestige and use among the elite and in the courts, Persian (for the most part) just couldn’t compete with the widespread use of Khari Boli. Khari Boli was spoken[^16]16 across the northern region of India, from Fatehgarh Sahib in the far northwest to what constitutes modern-day Uttar Pradesh (UP) in the north.[^17]17
+Now, although the Indian languages are related to Persian (both are Indo-Iranian languages), they are not mutually intelligible.  For all its prestige and use among the elite and in the courts, Persian (for the most part) just couldn’t compete with the widespread use of Khari Boli. Khari Boli was spoken[^16] across the northern region of India, from Fatehgarh Sahib in the far northwest to what constitutes modern-day Uttar Pradesh (UP) in the north.[^17]
 
 Khari Boli, now in stable shape in the capital, became the *lingua franca* of the north – and over time, more and more of India – and would go on to provide the basis for Hindi, Urdu, and Hindustani.
 
-For the sake of using a name with a clear connection to its continued use as the *lingua franca* of much of India (or, earlier, “Hindustan”), we will refer to Khari Boli as **Hindustani**.[^18]18
+For the sake of using a name with a clear connection to its continued use as the *lingua franca* of much of India (or, earlier, “Hindustan”), we will refer to Khari Boli as **Hindustani**.[^18]
 
-This also helps with precision. Speakers of just about any Indian language across the continent referred to their own language as “Hindi”, whether it be the Khari Boli dialect of any other. This was a legacy of the Muslims, who had used the words *hindī* “Indian language” and *hindvī* “Hindi language” to describe just about any Indian language – they were fairly indifferent about the whole issue.[^19]19
+This also helps with precision. Speakers of just about any Indian language across the continent referred to their own language as “Hindi”, whether it be the Khari Boli dialect of any other. This was a legacy of the Muslims, who had used the words *hindī* “Indian language” and *hindvī* “Hindi language” to describe just about any Indian language – they were fairly indifferent about the whole issue.[^19]
 
 Hindustani was by no means the only language spoken by people in India, of course. The 12th century saw a number of Indo-Aryan dialects splitting off from the different Apabhramshas and flourishing in their own rights. In the west, there was Rajasthani and Gujarati; in the south Marathi; in the east, Maithili and Bhojpuri; and further east Bengali, Assamese, and Oriya.
 
-Likewise, Persian was by no means the only literary language with any prestige. Rajasthani, for example, found favor among the smaller Rajput courts of north, west, and central India. In addition, in and around Lucknow, Muslim rulers also patronized an Eastern Hindi language known as Avadhi. This led to the development of a major tradition of Sufi (Islam) verse.[^20]20
+Likewise, Persian was by no means the only literary language with any prestige. Rajasthani, for example, found favor among the smaller Rajput courts of north, west, and central India. In addition, in and around Lucknow, Muslim rulers also patronized an Eastern Hindi language known as Avadhi. This led to the development of a major tradition of Sufi (Islam) verse.[^20]
 
 #### Planting the seeds of Urdu literary tradition
 
@@ -95,49 +95,49 @@ Two of the Sultanate’s expansions are especially relevant to the development o
 
 The first was expansion south into Gujarat. In 1297, Alauddin Khalji (ruled 1296 – 1316), annexed Gujarat into the Delhi Sultanate. This would initiate a large movement of people that would only increase after Timur, the first ruler of the Timurid dynasty of Central Asia, sacked Delhi in 1398. 
 
-By the early 15th century, Hindustani had become so popular in Gujarat that *it even began to influence Persian*. In this region, the local names for the language were abandoned in favor of Gujri, though “Hindi” continued to be used alongside it.[^21]21
+By the early 15th century, Hindustani had become so popular in Gujarat that *it even began to influence Persian*. In this region, the local names for the language were abandoned in favor of Gujri, though “Hindi” continued to be used alongside it.[^21]
 
 The Sufis developed Gujri into a literary language, and as Muslims, they wrote in the Perso-Arabic script. The development of Gujri as a literary language defined what could be called “the parameters of Urdu language and literature” – the language, the form, the themes, and so on. 
 
-**In other words, the literary tradition established in Gujarat can be considered one part of Urdu’s earliest literary tradition**.[^22]22
+**In other words, the literary tradition established in Gujarat can be considered one part of Urdu’s earliest literary tradition**.[^22]
 
 The second expansion was into the Deccan, the large plateau rising up from southern and western India. Right on the heels of their Gujarati counterparts, the Sufis in the Deccan would lead the charge in creating another early variety of Urdu.
 
-Most of the expansion came during the rule of Sultan Muhammad bin Tughlaq (ruled 1325 – 1351), when there was a large migration of the population from Delhi to Daulatabad and Aurangabad in the Deccan. Sometimes these migrations were voluntary, such as Hindu merchants and Sufi mystics and preachers who moved south for business or to establish new religious centers. But sometimes they were not quite as voluntary – in 1327, Sultan Tughlaq moved the capital from Delhi to and forcibly brought the population, and so Hindustani as well, with him.[^23]23 
+Most of the expansion came during the rule of Sultan Muhammad bin Tughlaq (ruled 1325 – 1351), when there was a large migration of the population from Delhi to Daulatabad and Aurangabad in the Deccan. Sometimes these migrations were voluntary, such as Hindu merchants and Sufi mystics and preachers who moved south for business or to establish new religious centers. But sometimes they were not quite as voluntary – in 1327, Sultan Tughlaq moved the capital from Delhi to and forcibly brought the population, and so Hindustani as well, with him.[^23]
 
 Persian was virtually unknown in the south at this time, and the Sufis who wanted to spread their message decided to use the Hindustani they had brought from the north. As they brought Hindustani south, it picked up some Punjabi features, as well as influences from the local dialects of the Deccan along the way. 
 
-The final result was a variety of Hindustani spoken in the Deccan that was full of *tadbhava*, “indigenous words” – words that with their origins in Middle IA rather than foreign languages – with a sprinkling of Persian or Arabic words. Over time, the number of words borrowed from Persian and Arabic increased.[^24]24
+The final result was a variety of Hindustani spoken in the Deccan that was full of *tadbhava*, “indigenous words” – words that with their origins in Middle IA rather than foreign languages – with a sprinkling of Persian or Arabic words. Over time, the number of words borrowed from Persian and Arabic increased.[^24]
 
 This variety came to be known as *Dakhanī* (lit., “southern”), *Hindwī*, or *Dehlavī*, and was written in the Perso-Arabic script, a decision which would have important consequences later on. 
 
-Once established, Dakhani would explode in popularity in southern India over the course of the next two centuries.[^25]25 Rulers of many of the Muslim kingdoms, notably in Bijapur and Golkunda (modern-day Hyderabad), began patronizing it. By the 17th century, Dakhani had established a rich literature for itself in a wide variety of genres. 
+Once established, Dakhani would explode in popularity in southern India over the course of the next two centuries.[^25] Rulers of many of the Muslim kingdoms, notably in Bijapur and Golkunda (modern-day Hyderabad), began patronizing it. By the 17th century, Dakhani had established a rich literature for itself in a wide variety of genres. 
 
 **This was the other founding moment of Urdu literary tradition.**
 
 ### Enter Mughals
 
-The Delhi Sultanate would not last forever, and it was eventually defeated by the Mughal Empire in 1526. The Mughals had roots in the Timurid dynasty of Central Asia but were heavily steeped in Indo-Persian culture. This meant that Persian was the official language of the court, and that it was spoken and written by the Mughal elites and nobles, at least in official (or high-cultural) contexts.[^26]26
+The Delhi Sultanate would not last forever, and it was eventually defeated by the Mughal Empire in 1526. The Mughals had roots in the Timurid dynasty of Central Asia but were heavily steeped in Indo-Persian culture. This meant that Persian was the official language of the court, and that it was spoken and written by the Mughal elites and nobles, at least in official (or high-cultural) contexts.[^26]
 
 #### The Situation in North India
 
 From the late 15th century on, and especially beginning in the reign of Emperor Akbar from 1556 – 1605, the Mughal government patronized the western language *Braj Bhāsā* as well as the eastern language Avadhi. These languages were patronized alongside Persian by both Hindus and Muslims, and a rich (and mostly religious) literary tradition developed around them. 
 
-Braj in particular became nearly as prestigious as a literary language as Persian,[^27]27 and even Emperor Akbar himself tried his hand at it.[^28]28
+Braj in particular became nearly as prestigious as a literary language as Persian,[^27] and even Emperor Akbar himself tried his hand at it.[^28]
 
-And just to confuse things, it was also around this time that **in North India, the term “Hindi” came to refer specifically to Braj.**[^29]29
+And just to confuse things, it was also around this time that **in North India, the term “Hindi” came to refer specifically to Braj.**[^29]
 
 But what about the spoken language in the north?
 
-Continued military presence in an area is not self-sustaining. It needs someone to run it, and it needs resources. In this way, the Persian-speaking administrative and commercial aspects of the Muslim rulers had a huge impact. The result was that up to the 17th century, even though Hindustani was the main vernacular, Persian was at the very least understood by much of the north Indian urban population.[^30]30
+Continued military presence in an area is not self-sustaining. It needs someone to run it, and it needs resources. In this way, the Persian-speaking administrative and commercial aspects of the Muslim rulers had a huge impact. The result was that up to the 17th century, even though Hindustani was the main vernacular, Persian was at the very least understood by much of the north Indian urban population.[^30]
 
 That Persian was so widely-understood in the North had serious consequences in its own right. To take one example, it meant that contrary to in the south, the Sufis of the north were perfectly comfortable in Persian and saw no reason to use Hindustani at all. 
 
-In the late 17th century, the Delhi elite, in love with all things Persian, began patronizing what was known as Rekhtah, in a conscious attempt to write in a Persianized Hindustani. Rekhtah, which meant “mixed” in Persian,[^31]31 was a form of poetry written in a mixture of Hindustani and Persian inside of a Persian poetic template.[^32]32 This can be considered the earliest form of the early Urdu variety of Hindustani, or Urdu-Hindustani.
+In the late 17th century, the Delhi elite, in love with all things Persian, began patronizing what was known as Rekhtah, in a conscious attempt to write in a Persianized Hindustani. Rekhtah, which meant “mixed” in Persian,[^31] was a form of poetry written in a mixture of Hindustani and Persian inside of a Persian poetic template.[^32] This can be considered the earliest form of the early Urdu variety of Hindustani, or Urdu-Hindustani.
 
-This was also the earliest stage of the “Muslimization” of Urdu, as the Muslim elite patronized it heavily. This patronage would ultimately be the driving force behind the rise of Urdu.[^33]33 
+This was also the earliest stage of the “Muslimization” of Urdu, as the Muslim elite patronized it heavily. This patronage would ultimately be the driving force behind the rise of Urdu.[^33]
 
-In the south, things were quite the opposite: though Rekhtah had made its way there, it would never reach anywhere near the same levels of popularity as it did in the north, given the massive popularity of Gujri and Dakhani.[^34]34 
+In the south, things were quite the opposite: though Rekhtah had made its way there, it would never reach anywhere near the same levels of popularity as it did in the north, given the massive popularity of Gujri and Dakhani.[^34]
 
 Before we move on, it is worth taking a moment to consider why Dakhani became a prestigious literary language, flourishing among these southern Muslim kingdoms of the Deccan, all the while in North India Hindustani was seen as such a low language, undeserving of cultivation.
 
@@ -145,35 +145,35 @@ For Dakhani in the south, one of the major force driving forces was cultural ide
 
 In the north, Hindustani was the *lingua franca*, and in fact a highly successful one at that.
 
-But the attitudes of the elite towards Hindustani were generally negative. Hindustani was seen as little more than a “mongrel *patois*” that was only necessary for communication between the indigenous population and the foreign rulers.[^35]35 Neither Muslims nor Hindus in North India had any real desire to turn it into a literary language.[^36]36 This meant that there just had not been the same opportunities for Hindustani to establish a literary tradition as there had been in the south, and so development of the literary tradition was significantly slowed down. One way or another, Delhi literary circles were biased against Dakhani – against anything non-Delhi, really.
+But the attitudes of the elite towards Hindustani were generally negative. Hindustani was seen as little more than a “mongrel *patois*” that was only necessary for communication between the indigenous population and the foreign rulers.[^35] Neither Muslims nor Hindus in North India had any real desire to turn it into a literary language.[^36] This meant that there just had not been the same opportunities for Hindustani to establish a literary tradition as there had been in the south, and so development of the literary tradition was significantly slowed down. One way or another, Delhi literary circles were biased against Dakhani – against anything non-Delhi, really.
 
 #### Vali visits Delhi
 
-In 1657, Emperor Aurangzeb seized the Mughal throne. He immediately set to work on conquering the Deccan kingdoms, and the rest of the southern Muslim kingdoms quickly fell under Mughal control. Breaking up the kingdoms during the conquests meant that the royal courts were dissolved, which had the side effect of scattering the artists and poets of those courts far and wide.[^37]37
+In 1657, Emperor Aurangzeb seized the Mughal throne. He immediately set to work on conquering the Deccan kingdoms, and the rest of the southern Muslim kingdoms quickly fell under Mughal control. Breaking up the kingdoms during the conquests meant that the royal courts were dissolved, which had the side effect of scattering the artists and poets of those courts far and wide.[^37]
 
-Some of the poets displaced by Aurangzeb’s conquests ended up going back north. This meant that the north would finally be exposed to the Dakhani variety of Hindustani. It would have to compete with Braj, Avadhi, and Persian, of course, which would be no mean feat.[^38]38
+Some of the poets displaced by Aurangzeb’s conquests ended up going back north. This meant that the north would finally be exposed to the Dakhani variety of Hindustani. It would have to compete with Braj, Avadhi, and Persian, of course, which would be no mean feat.[^38]
 
-One of the poets who moved north was Wali (1667 – 1707/8), born in Aurangabad.[^39]39 Even before arriving in Delhi around 1700, Wali was already an established poet in the south. Once in Delhi, he revolutionized the field. **He showed the elite of North India once and for all that Hindustani was capable of poetry just as good as any Indo-Persian poetry.**[^40]40
+One of the poets who moved north was Wali (1667 – 1707/8), born in Aurangabad.[^39] Even before arriving in Delhi around 1700, Wali was already an established poet in the south. Once in Delhi, he revolutionized the field. **He showed the elite of North India once and for all that Hindustani was capable of poetry just as good as any Indo-Persian poetry.**[^40]
 
 On the whole, he was well-received by the *literati* of Delhi. However, there was still a general feeling of uncertainty, given that Wali was an outsider, and a Dakhani outsider at that.
 
-But their ambivalence could not have been due to the actual language he was using. Wali’s poetry was not pure Dakhani, but rather more like Rekhtah influenced by Dakhani and Gujri. In fact, whatever Dakhani influences that could be seen were almost entirely limited to *tadbhav* - the indigenous words the elite later worked so hard to eliminate. But at the time of Wali’s visit most of these would not have been unfamiliar to speakers of the Delhi dialect.[^41]41
+But their ambivalence could not have been due to the actual language he was using. Wali’s poetry was not pure Dakhani, but rather more like Rekhtah influenced by Dakhani and Gujri. In fact, whatever Dakhani influences that could be seen were almost entirely limited to *tadbhav* - the indigenous words the elite later worked so hard to eliminate. But at the time of Wali’s visit most of these would not have been unfamiliar to speakers of the Delhi dialect.[^41]
 
-No, the real problem was that Wali was not himself from Delhi. All non-Delhi speech – even if an elite was speaking it – was looked down on.[^42]42 Admitting that Wali had revolutionized poetry would be an admission that a non-Delhi poet had come in and, rather than learning from the Delhi poets, had actually taught *them* something. 
+No, the real problem was that Wali was not himself from Delhi. All non-Delhi speech – even if an elite was speaking it – was looked down on.[^42] Admitting that Wali had revolutionized poetry would be an admission that a non-Delhi poet had come in and, rather than learning from the Delhi poets, had actually taught *them* something. 
 
-The Delhi elite quickly took up arms. Later leading poets such as Mir (1722 – 1810) and Qayem Chandpuri (1724/25 – 1794) took the lead in trying to diminish his achievements.[^43]43 After all, if they could show that Wali’s poetry wasn’t actually influenced by Dakhani, but rather by Persian / Delhi poetry, it would certainly fit their story of the supremacy of Delhi poetry a lot better.[^44]44
+The Delhi elite quickly took up arms. Later leading poets such as Mir (1722 – 1810) and Qayem Chandpuri (1724/25 – 1794) took the lead in trying to diminish his achievements.[^43] After all, if they could show that Wali’s poetry wasn’t actually influenced by Dakhani, but rather by Persian / Delhi poetry, it would certainly fit their story of the supremacy of Delhi poetry a lot better.[^44]
 
 #### From Hindustani to Urdu
 
-And so they began a “purification” of Hindustani. Contemporary influential poets such as Arzu (1689- 1756), Shah Hatim (1699 – 1781) and Jan-e-Janaan (1699 – 1781) worked to remove both Braj words and obviously indigenous words. After all, “correct” Hindustani couldn’t just be the language of the masses. No, “correct” Hindustani was the “elevated”, Persian-influenced kind spoken in the court.[^45]45
+And so they began a “purification” of Hindustani. Contemporary influential poets such as Arzu (1689- 1756), Shah Hatim (1699 – 1781) and Jan-e-Janaan (1699 – 1781) worked to remove both Braj words and obviously indigenous words. After all, “correct” Hindustani couldn’t just be the language of the masses. No, “correct” Hindustani was the “elevated”, Persian-influenced kind spoken in the court.[^45]
 
-It was this language that the elite considered their own, and which they wanted to give the status of Persian. This meant replacing Persian as the language of the royal city – the *zabān-e urdū-e mu’allā*.[^46]46
+It was this language that the elite considered their own, and which they wanted to give the status of Persian. This meant replacing Persian as the language of the royal city – the *zabān-e urdū-e mu’allā*.[^46]
 
 Even the Emperor was speaking the Persianized Hindustani. In January 1772, the sixteenth Mughal Emperor, Shah Alam II, moved back to Delhi and took up residence at the Red Fort. Shah Alam was an avid lover of languages. He patronized both Sanskrit as well as Hindustani, which, due in large part to years in Allahabad, he spoke in informal situations. He even tried his hand at writing something more substantial in it (although he identifies the language he was writing in as “Hindi”, of course). By speaking Hindustani, Shah Alam raised its prestige significantly. 
 
-This Persianized Hindustani’s prestige grew enough that the *zabān-e urdū-e mu’allā* began shifting towards it and away from Persian. It was *this* specific variety carved out by the Delhi elite that would go on to be called **Urdu**, shortened from * zabān-e urdū-e mu’allā*, and which was supposedly distinct from the Hindustani of the masses.[^47]47 (From now on, we’ll refer to that Persianized Hindustani by the name Urdu as well.)  
+This Persianized Hindustani’s prestige grew enough that the *zabān-e urdū-e mu’allā* began shifting towards it and away from Persian. It was *this* specific variety carved out by the Delhi elite that would go on to be called **Urdu**, shortened from * zabān-e urdū-e mu’allā*, and which was supposedly distinct from the Hindustani of the masses.[^47] (From now on, we’ll refer to that Persianized Hindustani by the name Urdu as well.)  
 
-In this way, the Mughals played a key role in the spread of Urdu. Wherever their power extended, so too did Urdu.[^48]48
+In this way, the Mughals played a key role in the spread of Urdu. Wherever their power extended, so too did Urdu.[^48]
 
 #### Bibliography
 
