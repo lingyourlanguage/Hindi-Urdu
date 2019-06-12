@@ -10,27 +10,27 @@
 
 Back in 1885, the Hindi nationalist movement was taking root, and the India National Congress (INC) became the first modern nationalist movement among countries under British control in Africa and Asia.
 
-As a sort of “national consciousness” spread from Bengal across India at the end of the 19th century, the middle class, which was increasingly educated, responded positively to Hindi publications. The ground rules of a standardized, Sanskritized Hindi were well-established, and the first experiments in Hindi creative writing began.[^110]110
+As a sort of “national consciousness” spread from Bengal across India at the end of the 19th century, the middle class, which was increasingly educated, responded positively to Hindi publications. The ground rules of a standardized, Sanskritized Hindi were well-established, and the first experiments in Hindi creative writing began.[^110]
 
-From 1868 to 1914, Hindi publications exploded, outnumbering Urdu publications three to one. This was due in large part to the British, whose educational policies demanded hundreds of thousands of Hindi texts in the Nagari script and created thousands of jobs dependent upon Hindi literacy.[^111]111
+From 1868 to 1914, Hindi publications exploded, outnumbering Urdu publications three to one. This was due in large part to the British, whose educational policies demanded hundreds of thousands of Hindi texts in the Nagari script and created thousands of jobs dependent upon Hindi literacy.[^111]
 
 By the time the INC became a mass movement under the leadership of Mahatma Ghandi, Hindi had developed significant recognition in the densely-populated northern provinces of Uttar Pradesh (UP) and Bihar. It had enough recognition to be a serious challenge to Urdu’s supremacy. 
 
-Interestingly enough, despite the ever-widening divide between Hindi and Urdu ideologues, English provided a sort of bridge, allowing the INC to attract support from across the communal divide. Even after Muhammad Ali Jinnah became leader of the All-India Muslim League in 1935 and brought it to the center of the debates, Muslims could still be found in INC leadership. Many would even receive senior positions in the party after the partition of 1947.[^112]112
+Interestingly enough, despite the ever-widening divide between Hindi and Urdu ideologues, English provided a sort of bridge, allowing the INC to attract support from across the communal divide. Even after Muhammad Ali Jinnah became leader of the All-India Muslim League in 1935 and brought it to the center of the debates, Muslims could still be found in INC leadership. Many would even receive senior positions in the party after the partition of 1947.[^112]
 
 But the pleasant times would not last forever, and eventually the extremes of the political spectrum came to dominate debate. It was clear that English wouldn’t do as a national language, but it wasn’t at all clear which language would replace it. 
 
-A great deal of effort in the 1930s and 40s went into extensive – and heated – debates about the pros and cons of Hindi, Urdu, or, as a compromise, a non-Sanskritized, non-Persianized Hindustani.[^113]113 The idea of partition had not yet come up, and so the stakes were high: which language would replace English?
+A great deal of effort in the 1930s and 40s went into extensive – and heated – debates about the pros and cons of Hindi, Urdu, or, as a compromise, a non-Sanskritized, non-Persianized Hindustani.[^113] The idea of partition had not yet come up, and so the stakes were high: which language would replace English?
 
 #### Whose battle?
 
-It is difficult to maintain that the Hindi-Urdu battle, which was in full swing, was *really* as much of a battle on behalf of the people as the elite on both sides made it out to be. The reason for this is simple: at the time, there was near total illiteracy in India – something like 97% of the population had no command of written Hindi or Urdu.[^114]114
+It is difficult to maintain that the Hindi-Urdu battle, which was in full swing, was *really* as much of a battle on behalf of the people as the elite on both sides made it out to be. The reason for this is simple: at the time, there was near total illiteracy in India – something like 97% of the population had no command of written Hindi or Urdu.[^114]
 
 The Hindi advocates had latched on to presenting Muslims as the villains in the situation, and from that point on it was a vicious race to the bottom for linguistic – but really sociopolitical – supremacy.
 
 The Muslim elite were represented by the Muslim League which had recently formed at the beginning of the 20th century. It had been formed with the help of Syed Ahmad Khan, the man who years ago had ended the Hunter Commission by saying that the Hindi-Urdu debate was entirely political, and had nothing to do with education. 
 
-Khan’s main strategy in the Muslim League was to highlight the fact that Urdu had its origins in not just one group of people, but among all classes and all communities. Furthermore, Hindi’s attack on Urdu threatened communal peace and harmony. These were common themes among defenders of the status quo.[^115]115
+Khan’s main strategy in the Muslim League was to highlight the fact that Urdu had its origins in not just one group of people, but among all classes and all communities. Furthermore, Hindi’s attack on Urdu threatened communal peace and harmony. These were common themes among defenders of the status quo.[^115]
 
 Hindi supporters were explicitly out to *challenge* the status quo, and had a few words about this “all classes and all communities” business. They saw it as no more than the base of traditional establishment power, and so there was *no choice* but to challenge Muslim hegemony.
 
@@ -42,37 +42,37 @@ But there was still Hindustani, the language of the people, the common ground be
 
 At the helm of the INC, Ghandi was in favor of the democratic power of Hindustani as a language to empower the population, to prevent the elite Hindi and Urdu from alienating all but a small fraction of the population. 
 
-Ghandi refused to believe that Hindi and Urdu were separate languages. To him, Hindi did not refer to the highly-Sanskritized version of Hindustani but rather to the language that both Hindus *and* Muslims speak – Hindustani – regardless of whether it was written in Devanagari or in the Persian script. He pointed out that only in the case of the language of the *literary elite* was there a barrier between Hindi and Urdu, one that they had deliberately created.[^116]116
+Ghandi refused to believe that Hindi and Urdu were separate languages. To him, Hindi did not refer to the highly-Sanskritized version of Hindustani but rather to the language that both Hindus *and* Muslims speak – Hindustani – regardless of whether it was written in Devanagari or in the Persian script. He pointed out that only in the case of the language of the *literary elite* was there a barrier between Hindi and Urdu, one that they had deliberately created.[^116]
 
 In other words, Hindustani (Hindi, in Ghandi’s words) was a revolution against the elite who had been drawing Hindi and Urdu apart for all these years:
 
->[Hindustani] was also a political gesture for unity between Hindus and Muslims of North India and at the same time an open invitation to Indians from other speech communities to accept a broadbased Hindi as the common national language.[^117]117
+>[Hindustani] was also a political gesture for unity between Hindus and Muslims of North India and at the same time an open invitation to Indians from other speech communities to accept a broadbased Hindi as the common national language.[^117]
 
 Ghandi saw no future for the elite versions of Hindi and Urdu, and he believed that not only did they cause unnecessary antagonism between Hindus and Muslims, but also that these extremist varieties would die off before too long.
 
 And in 1925 Ghandi’s vision for Hindustani even had some success when Ghandi convinced the Indian National Congress to adopt it as the official language for their proceedings.
 
-And he was not the only one in favor of Hindustani. In the face of the British, many of the strongest supporters of the Hindi nationalist movement had actually been *non-native* Hindi speakers – Ghandi included (he spoke Gujarati). They could all unite behind the idea of a national community where everyone would be bilingual, speaking their local dialects but using Hindi for national communication.[^118]118
+And he was not the only one in favor of Hindustani. In the face of the British, many of the strongest supporters of the Hindi nationalist movement had actually been *non-native* Hindi speakers – Ghandi included (he spoke Gujarati). They could all unite behind the idea of a national community where everyone would be bilingual, speaking their local dialects but using Hindi for national communication.[^118]
 
-Ghandi’s influence had even won Hindustani some powerful supporters. Jawaharlal Nehru, the soon-to-be first Prime Minister of India, spoke highly of it, declaring that it should be officially recognized as the language of India.[^119]119
+Ghandi’s influence had even won Hindustani some powerful supporters. Jawaharlal Nehru, the soon-to-be first Prime Minister of India, spoke highly of it, declaring that it should be officially recognized as the language of India.[^119]
 
 But Hindustani would not survive for very long. 
 
-The militant wing of Hindi supporters had become more extreme than ever, slowly asserting more and more authority. Ghandi, who had even served as the president of the HSS and had little trouble getting them to go with his plans for Hindustani, was forced to resign due to criticism from the more orthodox Hindi leaders within the organization as well as Urdu leaders outside of it. Support for “Hindi” now meant nothing less than unwavering support for the highly-Sanskritized Hindi.[^120]120
+The militant wing of Hindi supporters had become more extreme than ever, slowly asserting more and more authority. Ghandi, who had even served as the president of the HSS and had little trouble getting them to go with his plans for Hindustani, was forced to resign due to criticism from the more orthodox Hindi leaders within the organization as well as Urdu leaders outside of it. Support for “Hindi” now meant nothing less than unwavering support for the highly-Sanskritized Hindi.[^120]
 
 On the other side, the All-India Muslim League declared in 1937 that they would do everything within their power to make Urdu the universal language of India.
 
-Hindustani, despite whatever successes it may have had, just was not able to get either the elite supporters of Hindi or Urdu to budge. Compromise was just not a political reality.[^121]121
+Hindustani, despite whatever successes it may have had, just was not able to get either the elite supporters of Hindi or Urdu to budge. Compromise was just not a political reality.[^121]
 
 #### The Constituent Assembly
 
-Formed in 1946 while India was still under British rule, the Constituent Assembly of India would serve as India’s first Parliament after the 1947 Indian Independence Act partitioned British India into two territories: India and Pakistan (which also controlled what is now Bangladesh). Its sessions were conducted either in Hindustani or in English, showing just how appealing the idea of Hindustani was.[^122]122
+Formed in 1946 while India was still under British rule, the Constituent Assembly of India would serve as India’s first Parliament after the 1947 Indian Independence Act partitioned British India into two territories: India and Pakistan (which also controlled what is now Bangladesh). Its sessions were conducted either in Hindustani or in English, showing just how appealing the idea of Hindustani was.[^122]
 
-But the appeal of Hindustani was already gone by July 1947 at the fourth Constituent Assembly session, when the inevitability of a partition along religious lines became clear. The Muslim League identified Urdu as the symbol of Muslim separatism,[^123]123 and supporters of Hindi saw support for Hindustani as nothing more than appeasement of the Muslim base. They withdrew all support for Hindustani and demanded that Hindi in the Devanagari script – and only Hindi – be the official language of India.[^124]124
+But the appeal of Hindustani was already gone by July 1947 at the fourth Constituent Assembly session, when the inevitability of a partition along religious lines became clear. The Muslim League identified Urdu as the symbol of Muslim separatism,[^123] and supporters of Hindi saw support for Hindustani as nothing more than appeasement of the Muslim base. They withdrew all support for Hindustani and demanded that Hindi in the Devanagari script – and only Hindi – be the official language of India.[^124]
 
 But even *after* the partition of India and Pakistan, there was no clear winner from among Hindi, Urdu, and Hindustani. English remained the language of the educated elite, and Hindi had not achieved the sort of complete national domination it had been trying to achieve. The Constituent Assembly, tasked with writing a constitution for India, would have to choose a winner.
 
-Unsurprisingly, choosing a winner was one of the most controversial issues of the entire Constituent Assembly. Debate had become incredibly heated right from the start of the post-partition talks. Many moderate members of the assembly became seriously worried that the issue would destroy any chance of producing a constitution, or worse, would destroy the Constituent Assembly itself. The solution was that all talks about anything having to do with language were postponed to the end of the assembly.[^125]125
+Unsurprisingly, choosing a winner was one of the most controversial issues of the entire Constituent Assembly. Debate had become incredibly heated right from the start of the post-partition talks. Many moderate members of the assembly became seriously worried that the issue would destroy any chance of producing a constitution, or worse, would destroy the Constituent Assembly itself. The solution was that all talks about anything having to do with language were postponed to the end of the assembly.[^125]
 
 From 1 August – 14 September, 1949, the Constituent Assembly finally debated the language question.
 
@@ -82,11 +82,11 @@ On one side were delegates from Hindi-speaking states, led by UP freedom fighter
 
 On the other side were those who were frightened by the nascent Hindi imperialism, which seemed poised to make its best attempt at replacing every language in India by whatever means necessary. And this fear was not without reason – INC leader Ravishankar Shukla had even given a not-so-subtle warning to the south, where resistance to Hindi was especially strong:
 
->I can say to my friends in the South that so far as they are concerned, it would be in their best interests to learn Hindi as early as possibly, because if they do not learn Hindi quickly enough, they will be left behind.[^126]126
+>I can say to my friends in the South that so far as they are concerned, it would be in their best interests to learn Hindi as early as possibly, because if they do not learn Hindi quickly enough, they will be left behind.[^126]
 
-As arrogant as the Hindi-supporting side may have been, the political reality was that they could not ignore the coalition formed by all non-Hindi speaking delegates if they wanted to achieve their goals. That being said, a 78 – 77 vote in favor of Hindi against the Hindustani in 1949 demonstrated that the Hindi bloc was a force to be reckoned with.[^127]127
+As arrogant as the Hindi-supporting side may have been, the political reality was that they could not ignore the coalition formed by all non-Hindi speaking delegates if they wanted to achieve their goals. That being said, a 78 – 77 vote in favor of Hindi against the Hindustani in 1949 demonstrated that the Hindi bloc was a force to be reckoned with.[^127]
 
-In fact, Hindi had some obstacles to overcome, such as its lack of prestige among non-Hindi speaking regions and abysmal literacy rates in comparison with other languages.[^128]128
+In fact, Hindi had some obstacles to overcome, such as its lack of prestige among non-Hindi speaking regions and abysmal literacy rates in comparison with other languages.[^128]
 
 And in the end they did overcome those obstacles, but with a compromise. The **Munshi-Ayyangar formula** which stated that Hindi in the Devanagari script would be the official language of India, used for all official communication between states. But it also stated that English would continue to be used for 15 years after the effective date of the constitution (1950) for all legal purposes in order to ease the transition.** After those 15 years, a new commission would be convened to reassess the situation.
 
@@ -94,7 +94,7 @@ And in the end they did overcome those obstacles, but with a compromise. The **M
 
 For the 15-year period from 1950-1965 in which Hindi would replace English, Hindi ideologues wasted no time preparing it for its upcoming role as India’s official language. They began inventing long lists of technical terminology, using Sanskrit words as the basis.
 
-There were other political movements going on at the time as well. The provinces of British India had been determined based on administrative convenience for the British, and it was clear that some borders would need to be readjusted. Political mobilizations eventually led to the States Reorganisation Act of 1956, which was a major redrawing of boundaries along linguistic lines.[^129]129
+There were other political movements going on at the time as well. The provinces of British India had been determined based on administrative convenience for the British, and it was clear that some borders would need to be readjusted. Political mobilizations eventually led to the States Reorganisation Act of 1956, which was a major redrawing of boundaries along linguistic lines.[^129]
 
 One obvious problem that had not been solved in the Constituent Assembly was education: what language would people study in?
 
@@ -104,15 +104,15 @@ In 1956, the Central Advisory Board of Education took on this problem, and in 19
 2. Hindi speakers would learn another Indian language of their choice
 3. All would learn an European language (which meant English for just about everyone).
 
-Perhaps it was a good idea in theory, but it was a complete failure in practice. In non-Hindi states, Hindi instruction was rare. In Hindi-speaking areas, the requirement to learn another Indian language was met with malicious compliance. Most students chose Sanskrit, Urdu, or other language varieties extremely close to Hindi, rather than languages of the other states of India.[^130]130
+Perhaps it was a good idea in theory, but it was a complete failure in practice. In non-Hindi states, Hindi instruction was rare. In Hindi-speaking areas, the requirement to learn another Indian language was met with malicious compliance. Most students chose Sanskrit, Urdu, or other language varieties extremely close to Hindi, rather than languages of the other states of India.[^130]
 
-There was another issue concerning Hindi: the definition of Hindi given in [Article 351](https://en.wikisource.org/wiki/Constitution_of_India/Part_XVII#Article_351_{Directive_for_development_of_the_Hindi_language_}) of the constitution tries to accomplish so much that the result is a piece of legislation open to a wide variety of interpretations.[^131]131 Supporters of Hindustani took it as recognizing Hindustani, while Hindi groups took it as endorsing Sanskritized Hindi.
+There was another issue concerning Hindi: the definition of Hindi given in [Article 351](https://en.wikisource.org/wiki/Constitution_of_India/Part_XVII#Article_351_{Directive_for_development_of_the_Hindi_language_}) of the constitution tries to accomplish so much that the result is a piece of legislation open to a wide variety of interpretations.[^131] Supporters of Hindustani took it as recognizing Hindustani, while Hindi groups took it as endorsing Sanskritized Hindi.
 
 To the elites engaged in this Sanskritization of Hindi, the politics of the situation were clear. They were creating a national identity around Hindi, and, according to KC Chattopadhyaya, President of the HSS, Sanskrit words
 
 >are used in the same form everywhere. Therefore only that language can be acceptable all over India which is rich in pure Sanskrit words.
 
-In other words, to them, the only acceptable form of Hindi for the whole nation would be a Hindi that was not the language of one specific people – and so marked by regional variation – but one of the *whole* people, with specific usages of different people erased.[^132]132
+In other words, to them, the only acceptable form of Hindi for the whole nation would be a Hindi that was not the language of one specific people – and so marked by regional variation – but one of the *whole* people, with specific usages of different people erased.[^132]
 
 In 1963, with the 1965 deadline fast approaching, the Lok Sabha (lower house) of the Indian Parliament began looking into the language question again.
 
@@ -122,7 +122,7 @@ In response, Nehru pushed through the [Official Languages Act of 1963](http://ra
 
 This was a brilliant play: Hindi would be recognized as the *official* language, but would not be given the much more culturally significant role of *national* language.
 
-Non-Hindi regions remained skeptical. The 1963 act said that English “may continue to be used”, and they feared that future administrations would interpret that as “may not.”[^133]133 Their fears were soon realized when Nehru died in 1964 and the next Prime Minister, Gulzari Lal Nanda, began initiating pro-Hindi governmental actions, such as issuing an inquiry to governmental agencies across India as to the specific ways that they would implement Hindi after the 1965 deadline.
+Non-Hindi regions remained skeptical. The 1963 act said that English “may continue to be used”, and they feared that future administrations would interpret that as “may not.”[^133] Their fears were soon realized when Nehru died in 1964 and the next Prime Minister, Gulzari Lal Nanda, began initiating pro-Hindi governmental actions, such as issuing an inquiry to governmental agencies across India as to the specific ways that they would implement Hindi after the 1965 deadline.
 
 When news of this inquiry reached non-Hindi areas, the result was explosive.
 
@@ -134,7 +134,7 @@ It would not be until 1967 that the non-Hindi demand for continued official usag
 
 ### Hindi and Urdu today
 
-Today, it is precisely this “associate additional” English that remains dominant in India. English is the last obstacle Modern Hindi faces in its quest to become the *sole* official language of India.  And the obstacle appears insurmountable: English provides a level of access to institutions – social, political, economic, and so on – that Hindi still cannot rival.[^134]134
+Today, it is precisely this “associate additional” English that remains dominant in India. English is the last obstacle Modern Hindi faces in its quest to become the *sole* official language of India.  And the obstacle appears insurmountable: English provides a level of access to institutions – social, political, economic, and so on – that Hindi still cannot rival.[^134]
 
 That is not to say that English will continue to be the language of India for all time. There is no question, in fact, that English represents extreme privilege in India, and that English’s reign in India will be an unstable one due to the complex connotations associated with it and its relationship with Modern Hindi and Urdu.
 
@@ -142,7 +142,7 @@ But English remains a tool of anti-Hindi opposition. In the south especially, En
 
 In the end, it *was* Sanskritized Hindi that won out over all other languages. What counts as “correct” language is defined by those considered to be the masters of the language. In this case, that continues to be Hindi literary authors who come from the Hindi movement tradition. As has been the case since back in Gilchrist’s time, “purity” is highly valued, and as long as that is the case, the literary Hindi promoted by the government – whether it be through radio broadcasts such as All-India Radio or through educational policy – will remain far removed from the ordinary language of the people.
 
-The domain of the “Hindi area” now includes the Indian states of Uttar Pradesh, Bihar, Madhya Pradesh, Rajasthan, Haryana, and Himachal Pradesh, as well as the Union Territory of Delhi. That is to say, in these areas, Modern Standard Hindi (MSH) is the language of administration, education, literature, and so on. The number of native Hindi speakers continues to grow, and numerous dialects once considered separate languages – and which are usually far older than Hind – are now thought of as falling under the umbrella of “Hindi”.[^135]135 
+The domain of the “Hindi area” now includes the Indian states of Uttar Pradesh, Bihar, Madhya Pradesh, Rajasthan, Haryana, and Himachal Pradesh, as well as the Union Territory of Delhi. That is to say, in these areas, Modern Standard Hindi (MSH) is the language of administration, education, literature, and so on. The number of native Hindi speakers continues to grow, and numerous dialects once considered separate languages – and which are usually far older than Hind – are now thought of as falling under the umbrella of “Hindi”.[^135]
 
 The extreme fringes of Hindi support have since dwindled, but Hindi lives on. It is spoken by 531 million people in India, 258 million of whom are native speakers – an astounding [*41% of the population*](http://www.censusindia.gov.in/Census_Data_2001/Census_Data_Online/Language/Statement5.aspx). The next closest language in terms of number of native speakers is Bengali, with 8% of the population as speakers.
 
@@ -160,9 +160,9 @@ Picking a *national language*, though, means assigning Indian identity to just *
 
 Remember just how violent the conflicts became in the struggle over picking even an official language, how fundamental the battle for linguistic supremacy over the centuries was for the development of many cultural identities. Calling one language the national language is really something more than it being an official language; southern states were willing to tolerate English as an official language, so long as it would stop Hindi from complete domination.
 
-Urdu was ultimately less successful than Hindi, at least in India. It is a Schedule VIII (official) language in India, and the official language of the state of Jammu and Kashmir, as well as the second official language of UP, Bihar, and Andhra Pradesh.[^136]136 That being said, its 29 million speakers – a sizeable number (which may be over- or underestimated for political reasons) –  constitutes a mere 5% of the population. 
+Urdu was ultimately less successful than Hindi, at least in India. It is a Schedule VIII (official) language in India, and the official language of the state of Jammu and Kashmir, as well as the second official language of UP, Bihar, and Andhra Pradesh.[^136] That being said, its 29 million speakers – a sizeable number (which may be over- or underestimated for political reasons) –  constitutes a mere 5% of the population. 
  
-But it is important to maintain perspective: Urdu remains one of the most-spoken languages of the world, despite whatever attempts Hindi supports may make to portray it as simply a lowly variant of Hindustani.[^137]137 Urdu can be found in often found in [Bollywood movies](https://blog.scienceandmediamuseum.org.uk/decoding-the-bollywood-poster/), alongside Hindustani, which lives on as well, official recognition or not. It is the official language of Pakistan (alongside English) where it is spoken [by 109 million people](https://www.ethnologue.com/language/urd) – the majority of the population, and it remains the literary, cultural, and religious language of Muslims in India, Pakistan, and Bangladesh, as well as communities overseas.[^138]138
+But it is important to maintain perspective: Urdu remains one of the most-spoken languages of the world, despite whatever attempts Hindi supports may make to portray it as simply a lowly variant of Hindustani.[^137] Urdu can be found in often found in [Bollywood movies](https://blog.scienceandmediamuseum.org.uk/decoding-the-bollywood-poster/), alongside Hindustani, which lives on as well, official recognition or not. It is the official language of Pakistan (alongside English) where it is spoken [by 109 million people](https://www.ethnologue.com/language/urd) – the majority of the population, and it remains the literary, cultural, and religious language of Muslims in India, Pakistan, and Bangladesh, as well as communities overseas.[^138]
 
 ### One language or two?
 
@@ -170,13 +170,13 @@ We have seen the parallel developments of Hindi and Urdu as they twisted and tur
 
 The short answer: it’s complicated.
 
-The long answer: **Hindi and Urdu are two *literary styles* of the same dialect.[^139]139 At the colloquial level, they are almost identical. There are of course some minor differences in usage, but on the whole, it is not always possible to tell whether someone is speaking Hindi or Urdu straight away.[^140]140
+The long answer: **Hindi and Urdu are two *literary styles* of the same dialect.[^139] At the colloquial level, they are almost identical. There are of course some minor differences in usage, but on the whole, it is not always possible to tell whether someone is speaking Hindi or Urdu straight away.[^140]
 
 But at the same time, the perception that they are separate languages is very real.
 
 That sense is the sociopolitical reality of the situation. The common perception of them *is* as separate languages – a Muslim will refer to their language as Urdu and a Hindu as Hindi, even though there may be little difference between the two languages. That the Constitution of India certainly seems to see them that way only further cements the public perception that they are separate languages.
 
-The question of script also continues to play an important role in defining cultural identity.[^141]141 To many, the fact that Hindi and Urdu are written with different scripts is all the evidence they need to say that they are two separate languages.
+The question of script also continues to play an important role in defining cultural identity.[^141] To many, the fact that Hindi and Urdu are written with different scripts is all the evidence they need to say that they are two separate languages.
 
 Adding to this perception is the lack of mutual intelligibility in the upper registers of Hindi and Urdu – that is, formal speech, such as that in radio broadcasts or other media. In these contexts, the deliberate (successful) moves to Sanskritize Hindi and Persianize Urdu have rendered then mutually *un*intelligible.
 
