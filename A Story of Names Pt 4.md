@@ -2,7 +2,7 @@
 ### Part 4: Hindi and Urdu from Independence to Today
 
 ---
-*Here in Part 4, we conclude our journey by looking at Hindi and Urdu from Indian independence up through the present day, and finally answering (or at least trying to answer) our main question: Are Hindi and Urdu separate languages? In Part 1 we looked at the ancient origins of Hindi and Urdu, in Part 2 we looked at the influence of British colonialism on the Hindi-Urdu split, and in Part 3 we looked at the role of Hindu and Muslim nationalists in pushing the Hindi and Urdu standards further and further apart.*
+*Here in Part 4, we conclude our journey by looking at Hindi and Urdu from Indian independence up through the present day, and finally answering (or at least trying to answer) our main question: Are Hindi and Urdu separate languages? In [Part 1](https://lingyourlanguage.com/?article=9) we looked at the ancient origins of Hindi and Urdu, in [Part 2](https://lingyourlanguage.com/?article=8) we looked at the influence of British colonialism on the Hindi-Urdu split, and in [Part 3](https://lingyourlanguage.com/?article=7) we looked at the role of Hindu and Muslim nationalists in pushing the Hindi and Urdu standards further and further apart.*
 
 ---
 
