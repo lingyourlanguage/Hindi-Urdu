@@ -2,7 +2,7 @@
 ### Part 3: Nationalisms
 
 ---
-*Here in Part 3, we take a look at the role of Hindu and Muslim nationalists in pushing the Hindi and Urdu standards further and further apart up to Indian independence in 1946. In Part 1 we traced the origins of Hindi and Urdu back to their Sanskrit roots, and in Part 2 we examined the influence of British colonialism on the separation of Hindi and Urdu. In Part 4, we'll conclude by looking at Hindi and Urdu from Indian independence up through the present day, and finally answer (or at least try to answer) our main questions: Are Hindi and Urdu separate languages?*
+*Here in Part 3, we take a look at the role of Hindu and Muslim nationalists in pushing the Hindi and Urdu standards further and further apart up to Indian independence in 1946. In [Part 1](https://lingyourlanguage.com/?article=9) we traced the origins of Hindi and Urdu back to their Sanskrit roots, and in [Part 2](https://lingyourlanguage.com/?article=8) we examined the influence of British colonialism on the separation of Hindi and Urdu. In [Part 4](https://lingyourlanguage.com/?article=6), we'll conclude by looking at Hindi and Urdu from Indian independence up through the present day, and finally answer (or at least try to answer) our main questions: Are Hindi and Urdu separate languages?*
 
 ---
 ### The beginning of a rivalry
