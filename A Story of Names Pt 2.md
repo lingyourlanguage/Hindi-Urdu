@@ -2,7 +2,7 @@
 ### Part 2: The Hindi-Urdu Split
 
 ---
-*Here in Part 2, we take a look at just how the British were crucial to splitting Hindi and Urdu apart. What factors led the British to encourage two separate standards for the languages? In [Part 1](https://lingyourlanguage.com/?article=9), we saw how we got to this point from the Sanskrit origins of Hindi and Urdu, and in [Part 3](https://lingyourlanguage.com/?article=7) we'll look at the role of nationalisms in the development of separate standard languages. In [Part 4](https://lingyourlanguage.com/?article=6), we conclude by looking at Hindi and Urdu from Indian independence up through the present day, and finally answer (or at least try to answer) our main questions: Are Hindi and Urdu separate languages?*
+*Here in Part 2, we take a look at just how the British were crucial to splitting Hindi and Urdu apart. What factors led the British to encourage two separate standards for the languages? In [Part 1](https://lingyourlanguage.com/article/Hindi%20and%20Urdu:%20A%20Story%20of%20Names,%20Part%201:%20An%20Ancient%20Tradition), we saw how we got to this point from the Sanskrit origins of Hindi and Urdu, and in [Part 3](https://lingyourlanguage.com/article/Hindi%20and%20Urdu:%20A%20Story%20of%20Names,%20Part%203:%20Nationalisms) we'll look at the role of nationalisms in the development of separate standard languages. In [Part 4](https://lingyourlanguage.com/article/Hindi%20and%20Urdu:%20A%20Story%20of%20Names,%20Part%204:%20Hindi%20and%20Urdu%20from%20Independence%20to%20Today), we conclude by looking at Hindi and Urdu from Indian independence up through the present day, and finally answer (or at least try to answer) our main questions: Are Hindi and Urdu separate languages?*
 
 ---
 ### A convenient fiction
